@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_site=self.webpackChunkdocs_site||[]).push([[9466],{8149:e=>{e.exports=JSON.parse('{"permalink":"/kenny-test-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
